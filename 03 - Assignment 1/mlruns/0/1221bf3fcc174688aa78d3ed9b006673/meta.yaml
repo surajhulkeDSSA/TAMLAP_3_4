@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/suraj.hulke/Desktop/mlflow/mlflow_walkthrough/mlruns/0/1221bf3fcc174688aa78d3ed9b006673/artifacts
+end_time: 1728460103542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1221bf3fcc174688aa78d3ed9b006673
+run_name: zealous-skunk-357
+run_uuid: 1221bf3fcc174688aa78d3ed9b006673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728460103295
+status: 3
+tags: []
+user_id: suraj.hulke
